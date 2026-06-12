@@ -1,0 +1,23 @@
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Docs
+docs/design/
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+
+# Backend
+backend/vendor/
+backend/.env
+
+# Exercises
+exercises/
+
+# Docker
+.env
